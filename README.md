@@ -1,4 +1,10 @@
-# HR-Analysis Power bi Dashboard
+# HR Analysis
+# Overview
+This project demonstrates an end-to-end data analytics workflow, starting from importing raw data into a MySQL database, performing data cleaning and transformation using SQL, and creating an interactive dashboard in Power BI for business insights.
+
+The project highlights essential data analytics skills including SQL querying, data preprocessing, database management, and data visualization.
+
+# Power bi Dashboard
 <img width="1254" height="903" alt="image" src="https://github.com/user-attachments/assets/69d825d8-e067-4728-8948-d8eb23aed36e" />
 
 # Data Used
@@ -7,17 +13,16 @@ Data Cleaning & Analysis - MySQL Workbench
 Data Visualization - PowerBI
 
 # Questions
-What is the gender breakdown of employees in the company?
-What is the race/ethnicity breakdown of employees in the company?
-What is the age distribution of employees in the company?
-How many employees work at headquarters versus remote locations?
-What is the average length of employment for employees who have been terminated?
-How does the gender distribution vary across departments and job titles?
-What is the distribution of job titles across the company?
-Which department has the highest turnover rate?
-What is the distribution of employees across locations by state?
-How has the company's employee count changed over time based on hire and term dates?
-What is the tenure distribution for each department?
+1.What is the gender breakdown of employees in the company?
+2.What is the race/ethnicity breakdown of employees in the company?
+3.What is the age distribution of employees in the company?
+4.How many employees work at headquarters versus remote locations?
+5.What is the average length of employment for employees who have been terminated?
+6.How does the gender distribution vary across departments and job titles?
+7.What is the distribution of job titles across the company?
+8.Which department has the highest turnover rate?
+9.What is the distribution of employees across locations by state?
+
 # Summary of Findings
 There are more male employees
 White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
